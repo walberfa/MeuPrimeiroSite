@@ -16,7 +16,7 @@ meuprimeirosite
 ├── README.md
 ├── clientes.html
 ├── contato.html
-├── indez.html
+├── index.html
 ├── servicos.html
 └── sobre.html
 ```
@@ -26,3 +26,9 @@ A pasta `css` possui dois arquivos de estilização. O arquivo `estilo.css` é a
 Em `img` estão as imagens utilizadas no projeto.
 
 Na raiz do diretório estão os arquivos de extensão `html`, um para cada página do site, sendo o `index.html` o arquivo principal.
+
+## Como visualizar
+
+Clicando em `enviroments` você pode visualizar a página em `view deployment`.
+
+Ou apenas [clicando aqui](https://walberfa.github.io/MeuPrimeiroSite/).
